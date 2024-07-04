@@ -13,8 +13,8 @@ I'm MUAMMER, working as a software developer. I live in AFYONKARAHİSAR/TURKEY, 
 
 ## Connections
 
-- LinkedIn (www.linkedin.com/in/maydogmus)
-- Instagram (https://www.instagram.com/_muamm3r/)
+- [LinkedIn] (www.linkedin.com/in/maydogmus)
+- [Instagram] (https://www.instagram.com/_muamm3r/)
 
 ## GitHub Projects
 
