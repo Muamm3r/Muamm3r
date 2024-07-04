@@ -1,4 +1,4 @@
-# Hello, I'm [MUAMMER]! 👋
+# Hello, I'm MUAMMER! 👋
 
 ## About Me
 
