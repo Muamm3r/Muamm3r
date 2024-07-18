@@ -1,21 +1,23 @@
-# Hello, I'm MUAMMER ! 👋
+<h1 align="center">Merhaba 👋, ben Muammer</h1>
+<h3 align="center">Yazılım geliştirme, veri analitiği ve yapay zekaya yoğun ilgi duyuyorum. Boş zamanlarımda yeni teknolojiler öğrenmeyi ve açık kaynaklı projelere katkıda bulunmayı seviyorum.</h3>
 
-## About Me
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muamm3r&label=Profile%20views&color=0e75b6&style=flat" alt="muamm3r" /> </p>
 
-I'm MUAMMER, working as a software developer. I live in AFYONKARAHİSAR/TURKEY, and I have a strong interest in software development, data analytics, and artificial intelligence. In my free time, I love learning new technologies and contributing to open-source projects.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muamm3r" alt="muamm3r" /></a> </p>
 
-- 🔭 Currently working on AI INTEGRATION
-- 🌱 Currently learning SQL DATABASE
-- 👯 Open to collaborating on open-source projects
-- 🤔 Areas I want to help with: API DOCUMENTATION, DESKTOP APPLICATION, INTEGRATIONS
-- 💬 Feel free to ask me about C# object-oriented programming, database integration, documentation editing
-- 📫 Reach me at: maydogmus.dev@gmail.com
+- 🌱 Şu anda **MSSQL** öğreniyorum
 
-## Connections
+- 💬 Bana **C# nesne yönelimli programlama, MSSQL, API dokümantasyon düzenleme** hakkında sorular sorun
 
-- [LinkedIn](www.linkedin.com/in/maydogmus)
-- [Instagram](https://www.instagram.com/_muamm3r/)
+- 📫 Bana nasıl ulaşabilirsiniz **maydogmus.dev@gmail.com**
 
-## GitHub Projects
+<h3 align="left">Benimle iletişime geçin:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/maydogmus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maydogmus" height="30" width="40" /></a>
+<a href="https://instagram.com/_muamm3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_muamm3r" height="30" genişlik="40" /></a>
+</p>
 
-- Coming soon
+<h3 align="left">Diller ve Araçlar:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" genişlik="40" yükseklik="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" genişlik="40" yükseklik="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" genişlik="40" yükseklik="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" genişlik="40" yükseklik="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" genişlik="40" yükseklik="40"/> </a> </p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=muamm3r&show_icons=true&locale=tr" alt="muamm3r" /></p>
