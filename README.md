@@ -1,5 +1,3 @@
-![MasterHead](https://images.unsplash.com/photo-1555685812-4b7432b8af02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fGNvZGluZ3xlbnwwfHx8fDE2MzM2NzU2NDA&ixlib=rb-1.2.1&q=80&w=1080)
-
 <h1 align="center">Hi 👋, I'm Muammer</h1>
 <h3 align="center">I have a strong interest in software development, data analytics, and artificial intelligence. In my free time, I love learning new technologies and contributing to open-source projects.</h3>
 
