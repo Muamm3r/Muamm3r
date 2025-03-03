@@ -19,7 +19,7 @@
 <a href="https://discord.gg/354205905711005696" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="354205905711005696" height="30" width="40" /></a> <strong>Discord</strong>
 </p>
 
-<h3 align="left">Yazılım Dilleri ve Araçları:</h3>
+<h3 align="left">Yazılım Dilleri ve Araçlar:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
