@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muammer</h1>
+<h1 align="center">Merhaba 👋, Ben Muammer</h1>
 <h3 align="center">Yazılım geliştirme, veri analitiği ve yapay zekaya karşı güçlü bir ilgim var. Boş zamanlarımda yeni teknolojiler öğrenmeyi ve açık kaynaklı projelere katkıda bulunmayı seviyorum.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=muamm3r&label=Profile%20views&color=0e75b6&style=flat" alt="muamm3r" /> </p>
