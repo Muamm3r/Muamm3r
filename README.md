@@ -3,13 +3,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=muamm3r&label=Profile%20views&color=0e75b6&style=flat" alt="muamm3r" /> </p>
 
-- 🌱 I’m currently learning **MSSQL**
+- 🌱 MSSQL
 
-- 💬 Ask me about **C# object-oriented programming ,MSSQL , APİ documentation editing.**
 
-- 📫 How to reach me **maydogmus.dev@gmail.com**
+- 📫 maydogmus.dev@gmail.com
 
-- 🌐 My website **[muammeraydogmus.com](https://muammeraydogmus.com)**
+- 🌐 https://muammeraydogmus.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
