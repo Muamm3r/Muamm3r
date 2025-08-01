@@ -52,8 +52,3 @@
 
 ---
 
-<h3 align="center">📊 GitHub İstatistiklerim:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muamm3r&show_icons=true&locale=tr" alt="muamm3r" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muamm3r&layout=compact&theme=tokyonight" alt="diller" />
-</p>
