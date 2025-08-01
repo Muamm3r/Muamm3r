@@ -7,7 +7,7 @@
 
 - 🌱 Şu an öğreniyorum: **Node.js**, **AI tabanlı uygulama mimarileri**
 - 📫 Bana ulaşmak için: **maydogmus.dev@gmail.com**
-- 🌐 Web Sitem: [https://muammeraydogmus.com](https://muammeraydogmus.com)
+
 
 ---
 
