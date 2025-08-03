@@ -5,7 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=muamm3r&label=Profil%20Görüntüleme&color=0e75b6&style=flat" alt="muamm3r" />
 </p>
 
-- 🌱 Şu an öğreniyorum: **Node.js**, **AI tabanlı uygulama mimarileri**
 - 📫 Bana ulaşmak için: **maydogmus.dev@gmail.com**
 
 
